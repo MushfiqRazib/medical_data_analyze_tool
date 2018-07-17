@@ -1,3 +1,11 @@
+#
+# File data_visualize_analyze.py
+# Author: Muhammad Mushfiqur Rahman
+# Description: Medical app data visualization tool - summary info, churn rate, retention rate etc.
+# Email:mushfiq.rahman@tum.de
+# Date 2018-05-22
+
+
 from __future__ import division
 from os import listdir, makedirs
 from os.path import isfile, join, dirname, exists, basename

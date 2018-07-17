@@ -1,3 +1,10 @@
+#
+# File: main.py
+# Author: Muhammad Mushfiqur Rahman
+# Description: Medical app data visualization tool - summary info, churn rate, retention rate etc.
+# Email:mushfiq.rahman@tum.de
+# Date 2018-05-22
+
 from data_visualize_analyze import DatasetVisualize
 
 def main():
