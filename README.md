@@ -2,8 +2,9 @@
 Medical app data visualization tool - summary info, churn rate, retention rate etc.  
 
 # dataset
-Copy the given 'medical_data_science.csv' to ‘~/Desktop’ directory.   
-self.filepath = '~/Desktop/medical_data_science.csv'   
+Copy the given 'medical_data_science.csv' to ‘~/Desktop’ directory.     
+change line no. 32 of data_visualize_analyze.py file:  
+ - self.filepath = '~/Desktop/medical_data_science.csv'   
 
 # HOW TO RUN  
 command: python main.py    
