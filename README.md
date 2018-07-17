@@ -1,15 +1,15 @@
-# medical_data_analyze_tool
+## medical_data_analyze_tool
 Medical app data visualization tool - summary info, churn rate, retention rate etc.  
 
-# dataset
+## dataset
 Copy the given 'medical_data_science.csv' to ‘~/Desktop’ directory.     
 change line no. 32 of data_visualize_analyze.py file:  
  - self.filepath = '~/Desktop/medical_data_science.csv'   
 
-# HOW TO RUN  
+## HOW TO RUN  
 command: python main.py    
 
-# OUTPUT    
+## OUTPUT    
 Dataset Summary Info:    
 1. dataset summary diagram - 1        
     - how many users are registered, what version's are used when a user is active?  
